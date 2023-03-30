@@ -3,9 +3,8 @@ package com.example.designpatterns.delegate;
 import org.junit.jupiter.api.Test;
 
 import static com.example.designpatterns.delegate.AnimalKind.*;
-import static org.junit.jupiter.api.Assertions.*;
 
-class AnimalDelegatorTest {
+class DelegateTest {
 
     @Test
     void test() {

@@ -3,7 +3,7 @@ package com.example.designpatterns.strategy;
 import com.example.designpatterns.strategy.behavior.SoundToy;
 import org.junit.jupiter.api.Test;
 
-class DogTest {
+class StrategyTest {
 
     @Test
     void Bulldog() {
